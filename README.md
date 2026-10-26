@@ -112,4 +112,31 @@ CLIENT
 ![alt text](image.png)
 
 ## Result:
-Thus the study on Client Server Chat Applications has been performed
+Thus the study on Client Server Chat Applications has been performed# Study of Chat Application - Client Server Model
+
+## Aim
+
+To study client-server communication using socket programming.
+
+## Description
+
+This project demonstrates communication between a client and a server using Python UDP sockets.
+
+## Files
+
+* udp_server.py
+* udp_cilent.py
+* image.png
+* image-1.png
+
+## Technologies Used
+
+* Python
+* UDP Protocol
+* Socket Programming
+
+## Execution
+
+1. Run the UDP server program.
+2. Run the UDP client program in another terminal.
+3. Test communication between the client and server.
