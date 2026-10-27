@@ -75,10 +75,9 @@ while True:
 ```
 
 ```
-CLIENT
-```
-```python
-import socket
+## CLIENT
+
+```import socket
 
 client = socket.socket()
 host = input("Enter hostname or host IP: ")
